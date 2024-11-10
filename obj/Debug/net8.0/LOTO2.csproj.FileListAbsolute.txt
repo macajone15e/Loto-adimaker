@@ -1,0 +1,14 @@
+C:\Users\gg--d\Music\Programmation\LOTO2\bin\Debug\net8.0\LOTO2.exe
+C:\Users\gg--d\Music\Programmation\LOTO2\bin\Debug\net8.0\LOTO2.deps.json
+C:\Users\gg--d\Music\Programmation\LOTO2\bin\Debug\net8.0\LOTO2.runtimeconfig.json
+C:\Users\gg--d\Music\Programmation\LOTO2\bin\Debug\net8.0\LOTO2.dll
+C:\Users\gg--d\Music\Programmation\LOTO2\bin\Debug\net8.0\LOTO2.pdb
+C:\Users\gg--d\Music\Programmation\LOTO2\obj\Debug\net8.0\LOTO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gg--d\Music\Programmation\LOTO2\obj\Debug\net8.0\LOTO2.AssemblyInfoInputs.cache
+C:\Users\gg--d\Music\Programmation\LOTO2\obj\Debug\net8.0\LOTO2.AssemblyInfo.cs
+C:\Users\gg--d\Music\Programmation\LOTO2\obj\Debug\net8.0\LOTO2.csproj.CoreCompileInputs.cache
+C:\Users\gg--d\Music\Programmation\LOTO2\obj\Debug\net8.0\LOTO2.dll
+C:\Users\gg--d\Music\Programmation\LOTO2\obj\Debug\net8.0\refint\LOTO2.dll
+C:\Users\gg--d\Music\Programmation\LOTO2\obj\Debug\net8.0\LOTO2.pdb
+C:\Users\gg--d\Music\Programmation\LOTO2\obj\Debug\net8.0\LOTO2.genruntimeconfig.cache
+C:\Users\gg--d\Music\Programmation\LOTO2\obj\Debug\net8.0\ref\LOTO2.dll
