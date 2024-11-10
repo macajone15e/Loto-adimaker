@@ -22,15 +22,16 @@ class Program
         player.Tirage(); // Tir de la grille joueur 
         //player.Display();
         
-    for(int nbTirages = 0; nbTirages < 1; nbTirages++){
+    for(int nbTirages = 0; nbTirages < 100000000; nbTirages++){
        
         int[] nbBon = player.Combien(fdj.Tirage()); // Comparaison de la grille joueur en fonction du tirage fdj
+        //Console.WriteLine($"Il y a {resultats[0]} boule(s) de juste");
+        //Console.WriteLine($"Il y a {resultats[1]} étoiles(s) de juste");
 
-       stats.AddStatNombres(nbBon[0]);
-       Console.WriteLine($"Il y a {player.resultats[0]} boule(s) de juste");
-       Console.WriteLine($"Il y a {player.resultats[1]} étoiles(s) de juste");
+       stats.AddStatNombres(nbBon[0],nbBon[1]); 
+       
     }
-    //stats.Display();
+    stats.Display();
     }
     
 }

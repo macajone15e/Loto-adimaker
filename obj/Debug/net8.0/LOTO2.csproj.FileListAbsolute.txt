@@ -12,3 +12,4 @@ C:\Users\gg--d\Music\Programmation\LOTO2\obj\Debug\net8.0\refint\LOTO2.dll
 C:\Users\gg--d\Music\Programmation\LOTO2\obj\Debug\net8.0\LOTO2.pdb
 C:\Users\gg--d\Music\Programmation\LOTO2\obj\Debug\net8.0\LOTO2.genruntimeconfig.cache
 C:\Users\gg--d\Music\Programmation\LOTO2\obj\Debug\net8.0\ref\LOTO2.dll
+C:\Users\gg--d\Music\Programmation\LOTO2\obj\Debug\net8.0\LOTO2.sourcelink.json

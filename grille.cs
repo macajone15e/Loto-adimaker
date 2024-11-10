@@ -1,5 +1,3 @@
-
-
 using System;
 
 
@@ -91,7 +89,7 @@ public class Grille
 
         }
         Sort();
-        Display();
+        //Display();
         return tirageComplet; 
     }
 
@@ -180,10 +178,8 @@ public class Grille
                 }
             }
         }
-        //Console.WriteLine($"Il y a {nombreJuste} numéros gagnants");
-        //Console.WriteLine($"Il y a {nombreEtoileJuste} Étoiles gagnantes");
         resultats = [nombreJuste,nombreEtoileJuste];
-
+        
         return resultats;
 
     }
