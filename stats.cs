@@ -24,13 +24,15 @@ public class Stats
     public void Display()
     {
     Console.WriteLine("Combien\t% ");
+    Console.WriteLine("Boules");
     for(int i = 0; i<6;i++){
 
         Console.WriteLine($"{i}\t{resultats[i]*100.000000/tirageNumber}%");
 
     }
     Console.WriteLine();
-    for(int i = 0; i<4;i++){
+    Console.WriteLine("Étoiles");
+    for(int i = 0; i<3;i++){
 
         Console.WriteLine($"{i}\t{resultatsEtoile[i]*100.000000/tirageNumber}%");
 
