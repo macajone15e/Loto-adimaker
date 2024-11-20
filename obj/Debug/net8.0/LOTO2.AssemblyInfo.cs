@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LOTO2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70b772d4a3ca63ca75f54f12a393872f5d3c3266")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46330c48a9dc6b656476eb5c265b785ada86d504")]
 [assembly: System.Reflection.AssemblyProductAttribute("LOTO2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LOTO2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

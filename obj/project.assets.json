@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gg--d\\Music\\Programmation\\LOTO2\\LOTO2.csproj",
+      "projectUniqueName": "C:\\Users\\gg--d\\OneDrive - JUNIA Grande école d'ingénieurs\\Pictures\\ADI2\\Programmation et IA\\PROGRAMME\\LOTO2\\LOTO2.csproj",
       "projectName": "LOTO2",
-      "projectPath": "C:\\Users\\gg--d\\Music\\Programmation\\LOTO2\\LOTO2.csproj",
+      "projectPath": "C:\\Users\\gg--d\\OneDrive - JUNIA Grande école d'ingénieurs\\Pictures\\ADI2\\Programmation et IA\\PROGRAMME\\LOTO2\\LOTO2.csproj",
       "packagesPath": "C:\\Users\\gg--d\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gg--d\\Music\\Programmation\\LOTO2\\obj\\",
+      "outputPath": "C:\\Users\\gg--d\\OneDrive - JUNIA Grande école d'ingénieurs\\Pictures\\ADI2\\Programmation et IA\\PROGRAMME\\LOTO2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gg--d\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
