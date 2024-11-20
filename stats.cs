@@ -14,10 +14,10 @@ public class Stats
         resultatsEtoile = new int[3];
     }
 
-    public void AddStatNombres(int numeros, int etoile)
+    public void AddStatNombres(BonNumero stat)
     {
-        resultats[numeros]++;
-        resultatsEtoile[etoile]++;
+        resultats[stat.Boules]++;
+        resultatsEtoile[stat.Etoiles]++;
         tirageNumber++;
     }
    
@@ -27,7 +27,7 @@ public class Stats
     Console.WriteLine("Boules");
     for(int i = 0; i<6;i++){
 
-        Console.WriteLine($"{i}\t{resultats[i]*100.000000/tirageNumber}%");
+        Console.WriteLine($"{i}\t{resultats[i]*100.00/tirageNumber}%");
 
     }
     Console.WriteLine();

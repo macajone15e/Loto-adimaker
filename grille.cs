@@ -1,6 +1,13 @@
 using System;
 
+public class BonNumero 
+{
+    public int Boules;
+    public int Etoiles;
 
+
+
+}
 public class Grille
 {
     private int nbBoules = 5;
@@ -149,9 +156,9 @@ public class Grille
     }
     
 
-    public int[] Combien(int[] x)
+    public BonNumero Combien(int[] x)
     {
-        resultats = [];
+
         nombreJuste = 0;
         nombreEtoileJuste = 0;
         for (int i = 0; i < nbBoules; i++)
@@ -178,7 +185,9 @@ public class Grille
                 }
             }
         }
-        resultats = [nombreJuste,nombreEtoileJuste];
+        BonNumero resultats = new BonNumero();
+        resultats.Boules = nombreJuste;
+        resultats.Etoiles = nombreEtoileJuste;
         
         return resultats;
 
